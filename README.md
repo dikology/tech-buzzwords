@@ -1,6 +1,6 @@
-# Product Manager's Buzzwords ✨
+# Tech Buzzwords ✨
 
-It is a curated Anki deck containing terms and useful materials for learning and understanding product management.
+It is a curated Anki deck containing terms and useful materials for learning and understanding product management and other Tech stuff.
 
 Download a deck from this repo and double-click or open it to have it added to Anki. This deck can be further customized to your liking after importing.
 
